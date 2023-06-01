@@ -6,6 +6,7 @@ This will provide details on where to learn about javascript from basic to advan
 ## To learn basics of javascript
 
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+[JavaScript Versions](https://www.w3schools.com/js/js_versions.asp)
 
 ## Below are the websites to learn about Javascript advances concepts.
 
