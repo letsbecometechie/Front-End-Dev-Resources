@@ -3,7 +3,7 @@ This will provide details on where to learn about javascript from basic to advan
 
 ## Websites
 
-## To learn basics of javascript
+## To learn the basics of javascript
 
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
@@ -16,6 +16,7 @@ This will provide details on where to learn about javascript from basic to advan
 ## Below are the websites where how to solve a problem is taught
 
 [Javascript Interview Questions by RoadsideCoder](https://youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
+[100DaysToCrackJavaScript](https://www.youtube.com/watch?v=1p6Ow7qIH_k&list=PL_KW_uw2ITn8xWRkGZjKTfb-9xj_pJfgT&pp=iAQB)
 
 ## Below are the websites to practice interview questions
 
