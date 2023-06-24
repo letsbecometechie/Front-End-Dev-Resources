@@ -16,6 +16,7 @@ This will provide details on where to learn about javascript from basic to advan
 ## Below are the websites where how to solve a problem is taught
 
 [Javascript Interview Questions by RoadsideCoder](https://youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5)
+
 [100DaysToCrackJavaScript](https://www.youtube.com/watch?v=1p6Ow7qIH_k&list=PL_KW_uw2ITn8xWRkGZjKTfb-9xj_pJfgT&pp=iAQB)
 
 ## Below are the websites to practice interview questions
@@ -28,6 +29,10 @@ This will provide details on where to learn about javascript from basic to advan
 ## Interview Questions PDFs
 
 [Javascript interview question from learnersbucket.com](https://github.com/letsbecometechie/Front-End-Dev-Resources/blob/main/JavaScript/JavaScript-Interview-Guide.pdf)
+
+## DSA in Javascript (optional)
+
+[DSA in Javascript | Binge Watch Special by JsCafe ](https://youtube.com/playlist?list=PLe3J6mZBq1xXGugXelPwjNeWuOVrVoWQS)
 
 
 
