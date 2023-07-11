@@ -7,4 +7,4 @@
 
 ## CSS Topics
 
-[Flexbox basics]https://www.youtube.com/playlist?list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd
+[Flexbox basics](https://www.youtube.com/playlist?list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd)
