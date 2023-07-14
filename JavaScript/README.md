@@ -9,6 +9,8 @@ This will provide details on where to learn about javascript from basic to advan
 
 [JavaScript Versions](https://www.w3schools.com/js/js_versions.asp)
 
+[JavaScript Data Structures](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
+
 ## Below are the websites to learn about Javascript advances concepts.
 
 [Namaste Javascript by Akshay Saini](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
@@ -33,6 +35,12 @@ This will provide details on where to learn about javascript from basic to advan
 ## DSA in Javascript (optional)
 
 [DSA in Javascript | Binge Watch Special by JsCafe ](https://youtube.com/playlist?list=PLe3J6mZBq1xXGugXelPwjNeWuOVrVoWQS)
+
+[JavaScript Algorithms and Data Structures by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP)
+
+[JavaScript Algorithms](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa)
+
+
 
 
 
