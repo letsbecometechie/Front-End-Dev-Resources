@@ -41,6 +41,12 @@ This will provide details on where to learn about javascript from basic to advan
 [JavaScript Algorithms](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa)
 
 
+## Documentations
+
+[Javascript,info](https://javascript.info/)
+
+[MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 
 
