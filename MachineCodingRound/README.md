@@ -11,3 +11,5 @@
 [frontend-mini-challenges by Sadanand Pai](https://github.com/sadanandpai/frontend-mini-challenges)
 
 [Devtools](https://devtools.tech/)
+
+[JavaScript 30](https://javascript30.com/)
