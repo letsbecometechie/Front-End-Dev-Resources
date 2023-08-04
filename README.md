@@ -2,7 +2,7 @@
 This repo will give you details from the website/resource to prepare for a front-end developer interview 
 I have collated all the information required for an interview/upskilling as a front-end developer.
 
-If you like this project click on **Star** for this project and show your support
+If you like this project give a **Star** for this project and show your support
 
 # Start Learning
 
