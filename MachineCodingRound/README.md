@@ -13,3 +13,7 @@
 [Devtools](https://devtools.tech/)
 
 [JavaScript 30](https://javascript30.com/)
+
+## GitHub Repos
+
+[NikhilJHA01/Machine-Coding-Round](https://github.com/NikhilJHA01/Machine-Coding-Round)
