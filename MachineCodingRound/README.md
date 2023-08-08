@@ -14,6 +14,8 @@
 
 [JavaScript 30](https://javascript30.com/)
 
+[FrontendPro](https://www.frontendpro.dev/frontend-coding-challenges)
+
 ## GitHub Repos
 
 [NikhilJHA01/Machine-Coding-Round](https://github.com/NikhilJHA01/Machine-Coding-Round)
