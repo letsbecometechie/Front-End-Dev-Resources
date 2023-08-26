@@ -1,5 +1,5 @@
 # JavaScript
-This will provide details on where to learn about javascript from basic to advance. 
+This will provide details on where to learn about JavaScript from basic to advanced. 
 
 ## Websites
 
@@ -11,7 +11,7 @@ This will provide details on where to learn about javascript from basic to advan
 
 [JavaScript Data Structures](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg6nsAOfC5Is18KB2DrVOJy)
 
-## Below are the websites to learn about Javascript advances concepts.
+## Below are the websites to learn about Javascript advance concepts.
 
 [Namaste Javascript by Akshay Saini](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
@@ -32,7 +32,7 @@ This will provide details on where to learn about javascript from basic to advan
 
 [Javascript interview question from learnersbucket.com](https://github.com/letsbecometechie/Front-End-Dev-Resources/blob/main/JavaScript/JavaScript-Interview-Guide.pdf)
 
-## DSA in Javascript (optional)
+## DSA in Javascript
 
 [DSA in Javascript | Binge Watch Special by JsCafe ](https://youtube.com/playlist?list=PLe3J6mZBq1xXGugXelPwjNeWuOVrVoWQS)
 
@@ -40,14 +40,13 @@ This will provide details on where to learn about javascript from basic to advan
 
 [JavaScript Algorithms](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiRYB4-HHKHblh3_bQNJTMa)
 
+[DSA In JS With Vishal](https://github.com/Vishal-raj-1/DSA-In-JS-With-Vishal)
+
+[Data Structures & Alogithms in JavaScript | DSA with JS from Vishal Rajput](https://youtube.com/playlist?list=PLSH9gf0XETos9m5YTROtFg1nJTnYumlVJ&si=6VhDU_BD4-Kx9Rin)
+
 
 ## Documentations
 
 [Javascript,info](https://javascript.info/)
 
 [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
-
-
-
