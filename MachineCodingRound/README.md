@@ -16,6 +16,10 @@
 
 [FrontendPro](https://www.frontendpro.dev/frontend-coding-challenges)
 
+[icodethis](https://icodethis.com/app)
+
 ## GitHub Repos
 
 [NikhilJHA01/Machine-Coding-Round](https://github.com/NikhilJHA01/Machine-Coding-Round)
+
+[icodethis Github](https://github.com/florinpop17/app-ideas)
