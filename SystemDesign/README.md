@@ -6,3 +6,5 @@
 
 [Asset Optimizations | System Design Concepts for Frontend🔥 by JsCafe](https://www.youtube.com/playlist?list=PLe3J6mZBq1xVg_7f-LdzSq7Mpvp-lA39_)
 
+[patterns](https://www.patterns.dev/)
+
